@@ -1,0 +1,14 @@
+# Build files
+build/
+
+# Runtime logs
+logs/*.log
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# IDE / editor files
+.vscode/
+.idea/
